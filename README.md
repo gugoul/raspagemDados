@@ -10,5 +10,3 @@ Funciona somente em páginas HTML onde o contéudo pode ser visualizado no
 código fonte da página!!!
 
 TOTALMENTE GRATUITO!!!
-
-Versão online: www.kaba.000webhostapp.com
